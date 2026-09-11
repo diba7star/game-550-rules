@@ -5,6 +5,7 @@
 > **تاریخ نخستین انتشار:** ۲۰ شهریور ۱۴۰۵ (11 September 2026)
 > **نسخهٔ قوانین:** ۱٫۰
 > **مجوز متن:** [CC BY 4.0](LICENSE) — بازنشر آزاد است به شرط ذکر نام «دانیال دیبا» و پیوند به https://hi1.ir
+> **شناسهٔ دائمی (DOI):** [10.5281/zenodo.22713387](https://doi.org/10.5281/zenodo.22713387)
 
 *English version below — [jump to English](#the-card-game-550--official-rules-v10).*
 
@@ -207,7 +208,7 @@
 # The Card Game "550" — Official Rules (v1.0)
 
 > **Author / compiler:** Danial Diba · **Official site:** https://hi1.ir · **Online version:** https://550.hi1.ir
-> **First published:** 11 September 2026 · **Rules version:** 1.0 · **Text license:** [CC BY 4.0](LICENSE)
+> **First published:** 11 September 2026 · **Rules version:** 1.0 · **Text license:** [CC BY 4.0](LICENSE) · **DOI:** [10.5281/zenodo.22713387](https://doi.org/10.5281/zenodo.22713387)
 
 ## Overview
 
@@ -313,4 +314,5 @@ Target score, win condition and margin, jokers, which 3 is removed, redeal on al
 ```
 Diba, Danial (2026). 550: Official Rules of a Six-Player Partnership
 Trick-Taking Card Game (v1.0). https://github.com/diba7star/game-550-rules
+DOI: 10.5281/zenodo.22713387  https://doi.org/10.5281/zenodo.22713387
 ```
