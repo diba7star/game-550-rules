@@ -1,6 +1,6 @@
 # بازی ورق «۵۵۰» — قوانین رسمی (نسخهٔ ۱٫۰)
 
-> **گردآورنده و نویسندهٔ قوانین:** دانیال دیبا (Danial Diba)
+> **طراح و نویسندهٔ قوانین:** دانیال دیبا (Danial Diba)
 > **وب‌سایت رسمی:** https://hi1.ir — **نسخهٔ آنلاین:** https://550.hi1.ir
 > **تاریخ نخستین انتشار:** ۲۰ شهریور ۱۴۰۵ (11 September 2026)
 > **نسخهٔ قوانین:** ۱٫۰
@@ -181,11 +181,21 @@
 
 ## ۱۴. پیشینه
 
-«۵۵۰» بازی‌ای است که سال‌ها در جمع‌های دوستانه و خانوادگی در ایران بازی می‌شده و قوانینش سینه‌به‌سینه و با تفاوت‌های محلی منتقل شده است. **دانیال دیبا** قوانین آن را برای نخستین بار در تاریخ **۲۰ شهریور ۱۴۰۵ (۱۱ سپتامبر ۲۰۲۶)** به‌صورت کامل مکتوب و یکسان‌سازی کرد و همان روز نخستین نسخهٔ آنلاین آن را در https://550.hi1.ir راه انداخت.
+«۵۵۰» روی پایهٔ یک بازی ورق سنتی ساخته شده که سال‌ها در جمع‌های دوستانه و خانوادگی در ایران بازی می‌شده است. از آن بازیِ ساده‌تر این چیزها به ارث رسیده: شش بازیکن در سه تیم دونفره با یارهای روبه‌رو، حکم ثابت پیک، حذف چند ورق برای رساندن دست به عدد مناسب، و ایدهٔ پایه‌ای که هر بازیکن اعلام کند چند دست می‌گیرد.
 
-۵۵۰ از خانوادهٔ بازی‌های «دست‌گیر با اعلام» است (هم‌خانوادهٔ حکم ایرانی و اسپیدز)، ولی ترکیب شش‌نفرهٔ سه‌تیمی، حکم ثابت پیک، حذف ویژهٔ ورق‌ها، اعلام نیم با جمع رُند، حداقل اجباری ۲ و نادید دوتأییدی، آن را به بازی مستقلی تبدیل کرده است.
+باقی ساختار بازی — یعنی همان چیزی که ۵۵۰ِ امروز را می‌سازد — کار **دانیال دیبا** است:
 
-> این سند ادعای «اختراع» بازی را ندارد؛ ادعای آن این است که **نخستین متن کامل، مکتوب و یکسان‌شدهٔ قوانین ۵۵۰** است.
+- **اعلام نیم** (½، ۱½، …) به‌همراه قانون رُند شدن جمع دو یار؛
+- **نادید** پیش از پخش، با تأیید اجباری یار و امتیاز دوبرابر؛
+- **حداقل اجباری ۲** برای هر تیم و پخش دوبارهٔ دست وقتی هر سه تیم روی ۲ می‌مانند؛
+- قانون **«حکم تا ناچاری»** و دیگر حالت‌های شروع با حکم؛
+- **حالت جوکر** و مجموعهٔ **قوانین قابل تنظیم** (سقف امتیاز، اختلاف برد، ۳ حذفی و…).
+
+این‌ها برای جذاب‌تر شدن بازی اضافه شده‌اند، و آخرینشان هنگام نوشتن همین سند شکل گرفت. متن کامل قوانین نخستین بار در **۲۰ شهریور ۱۴۰۵ (۱۱ سپتامبر ۲۰۲۶)** منتشر شد و نسخهٔ آنلاین بازی همان روز روی https://550.hi1.ir راه افتاد.
+
+۵۵۰ از خانوادهٔ بازی‌های «دست‌گیر با اعلام» است (هم‌خانوادهٔ حکم ایرانی و اسپیدز)، ولی ترکیب شش‌نفرهٔ سه‌تیمی با این سیستم اعلام، آن را به بازی مستقلی تبدیل کرده است.
+
+> ادعای این سند روشن و محدود است: **ریشهٔ بازی محلی و سنتی است، ولی سیستم اعلام و امتیازدهی آن و نخستین متن کامل و مکتوب قوانینش کار دانیال دیبا است.**
 
 ## ۱۵. نسخهٔ آنلاین
 
@@ -207,7 +217,7 @@
 
 # The Card Game "550" — Official Rules (v1.0)
 
-> **Author / compiler:** Danial Diba · **Official site:** https://hi1.ir · **Online version:** https://550.hi1.ir
+> **Designer and author of the rules:** Danial Diba · **Official site:** https://hi1.ir · **Online version:** https://550.hi1.ir
 > **First published:** 11 September 2026 · **Rules version:** 1.0 · **Text license:** [CC BY 4.0](LICENSE) · **DOI:** [10.5281/zenodo.22713387](https://doi.org/10.5281/zenodo.22713387)
 
 ## Overview
@@ -298,11 +308,21 @@ Target score, win condition and margin, jokers, which 3 is removed, redeal on al
 
 ## History
 
-550 has been played for years among families and groups of friends in Iran, passed on by word of mouth with local variations. **Danial Diba** first wrote down and standardised the complete rules on **11 September 2026** and launched the first online version the same day at https://550.hi1.ir.
+550 is built on a simple traditional card game that has been played informally in family and friends' circles in Iran for years. From that game it inherits six players in three fixed partnerships with partners sitting opposite, spades as permanent trumps, the reduced deck, and the basic idea that each player announces how many tricks they expect to take.
 
-550 belongs to the family of bidding trick-taking games (related to Iranian Hokm and Spades). Its combination of six players in three fixed partnerships, permanent spade trumps, the special card removal, half bids with whole-number partnership totals, the forced minimum of 2, and partner-confirmed blind bids makes it a distinct game.
+The rest of the structure — the part that gives 550 its present shape — was developed by **Danial Diba**:
 
-> This document does not claim to have *invented* the game. It claims to be the **first complete, written, standardised text of the rules of 550**.
+- **half bids** (½, 1½ …) together with the rule that a partnership's two bids must add up to a whole number;
+- the **blind bid** before the deal, which the partner must confirm, scoring double;
+- the **forced minimum contract of 2** and the redeal when all three teams sit at that minimum;
+- the **"no trump lead until forced"** rule and the other trump-lead options;
+- the **joker variant** and the set of **table options** (target score, winning margin, which 3 is removed, and so on).
+
+These were added to make the game more interesting to play, and the last of them took shape while this document was being written. The complete rules were first published on **11 September 2026**, and the online version launched the same day at https://550.hi1.ir.
+
+550 belongs to the family of bidding trick-taking games (related to Iranian Hokm and Spades), but the combination of six players in three fixed partnerships with this bidding system makes it a distinct game.
+
+> The claim this document makes is a specific and limited one: **the game's root is a local tradition, but its bidding and scoring system, and the first complete written text of its rules, are the work of Danial Diba.**
 
 ## Rights
 
